@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maedehhjn
 - 👀 I’m interested in UX\UI AND AI
-- 🌱 I’m currently learning eeg preprocessing
+- 🌱 I’m currently learning EEG preprocessing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maedeh.hjn.b@gmail.com
 
