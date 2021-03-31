@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maedehhjn
+- 👋 Hi, I’m @Maedeh hjn
 - 👀 I’m interested in UX\UI AND AI
 - 🌱 I’m currently learning EEG preprocessing
 - 💞️ I’m looking to collaborate on ...
